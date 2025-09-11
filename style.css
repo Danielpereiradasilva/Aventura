@@ -14,3 +14,18 @@ color: white;
 font-family: "bai Jamjuree", sans-serif;
 
 }
+.passo{
+    display:block;
+}
+
+.passo.ativo {
+    display:center;
+}
+
+main{
+   text-align:center;
+}
+
+img{
+    max-width:90%;
+}
